@@ -9,7 +9,7 @@ The following two files contain:
 - **"ONiT_extracted-images_full.json"**: Final version of the full extracted image dataset from all ONiT travelogues.
 - **"ONiT_curated-images_D-E-F-L.json"**: A curated version of the extracted image dataset containing only images with nature representations (flora, fauna, landscapes, and maps).
 
-# List of Travelogues
+# Overview of Travelogues
 - **D16:** German language travelogues to the Ottoman empire, 16th century
 - **D17:** German language travelogues to the Ottoman empire, 17th century
 - **D18:** German language travelogues to the Ottoman empire, 18th century
