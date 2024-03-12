@@ -6,8 +6,8 @@ A first collection of direct links leading to all extracted images at the [Austr
 
 The updated version of this collection contains the IIIF links to the entirety of images extracted with the tool by the end of the second project year. It includes all elements that were automatically recognised as images by the tool.
 The following two files contain: 
-- "ONiT_extracted-images_full.json": Final version of the full extracted image dataset from all ONiT travelogues.
-- "ONiT_curated-images_D-E-F-L.json": A curated version of the extracted image dataset containing only images with nature representations (flora, fauna, landscapes, and maps).
+- **"ONiT_extracted-images_full.json"**: Final version of the full extracted image dataset from all ONiT travelogues.
+- **"ONiT_curated-images_D-E-F-L.json"**: A curated version of the extracted image dataset containing only images with nature representations (flora, fauna, landscapes, and maps).
 
 # List of Travelogues
 - **D16:** German language travelogues to the Ottoman empire, 16th century
