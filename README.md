@@ -2,7 +2,7 @@
 This repository contains a collection of all images from the ONiT corpus that were automatically extracted from the digitized bookprints with the [Illustration Detector tool](https://gitlab.com/vgg/nls-chapbooks-illustrations/-/blob/master/Illustration-Detector.md) by the Visual Geometry Group at the University of Oxford.
 The goal of the interdisciplinary ONiT project [Ottoman Nature in Travelogues (ONiT)](https://onit.oeaw.ac.at/) is to analyze Ottoman “nature” in travelogues on the Ottoman empire, printed between 1501 and 1850.
 
-A first collection of direct links leading to all extracted images at the [Austrian National Library](https://search.onb.ac.at/) IIIF repository was provided in individual CSV/Excel files contained in the "IIIF_Links_D16-E19" folder.
+A first collection of direct links leading to all extracted images at the [Austrian National Library](https://search.onb.ac.at/) IIIF repository was provided in individual CSV/Excel files contained in the "IIIF_Links_D16-E19" folder at the end of the first project year.
 
 The updated version of this collection contains the IIIF links to the entirety of images extracted with the tool by the end of the second project year. It includes all elements that were automatically recognised as images by the tool.
 The following two files contain: 
